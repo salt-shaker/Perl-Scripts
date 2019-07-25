@@ -7,7 +7,7 @@ A bunch of scripts from when I was learning Perl and Bash
 
 One of the first programming languages I started using was perl. The first was liberty basic, but that's another story. Perl is a high level, interpreted, general-purpose programming language. Perl is a great language to learn and is used by most operating systems for shell scripting. I was atracted to it because of its versatility and power. The fact that it was installed on unix and linux be default gave it a sense of out-of-the-box portablity that most programming langauges do not have. I learned a great deal about the fundamentals of programming by using perl but it lacked that super-star shimmer of Java Script and PHP so eventually I moved over to UX design.
 
-Many of these sripts worked for what they were designed for. Quick and easy. They are provied as is, for learning. Use them at your own risk.
+Many of these scripts worked for what they were designed for. Quick and easy. They are provied as is, for learning. Use them at your own risk.
 
 Below are some snippits from the internet showing that Perl Love.
 
