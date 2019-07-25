@@ -9,6 +9,8 @@ One of the first programming languages I started using was perl. The first was l
 
 Many of these scripts worked for what they were designed for. Quick and easy. They are provied as is, for learning. Use them at your own risk.
 
+Also, this is a good read: <a href="https://blog.usejournal.com/what-is-perl-how-relevant-it-is-and-how-to-get-started-d802e7aba2cd">What is Perl? How relevant it is and how to get started!</a>
+
 Below are some snippits from the internet showing that Perl Love.
 
 <hr>
