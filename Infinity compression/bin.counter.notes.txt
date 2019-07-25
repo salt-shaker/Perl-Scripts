@@ -1,0 +1,146 @@
+00100101010100000100010001000110
+
+value is frame number
+
+00100101010100000100010001000110 = 626017350
+
+every frame is 32 bits. extra zero's will be infered. a frame lacking bits to be completed will be filled. it will be noted.
+and allowed to be compiled. then when decompiled, it etra bits will be removed.
+
+
+00101101001100010010111000110101
+00001010001001011011010111101101
+10101110111110110000101000110011
+00100000001100000010000001101111
+01100010011010100000101000111100
+00111100001000000010111101001100
+01100101011011100110011101110100
+01101000001000000011010000100000
+00110000001000000101001000001010
+00100000001000000010000000101111
+
+
+vash@vash-MX6214:~/Pictures$ perl ../Documents/text.to.binary.pl -b -f 20150730_150703.jpg
+
+vash@vash-MX6214:~/Pictures$ perl ../Documents/text.to.binary.pl -t -f binary.test.out.txt
+
+vash@vash-MX6214:~/Pictures$ perl ../Documents/text.to.binary.pl -t -f binary.test.out.txt
+
+vash@vash-MX6214:~/Pictures$ perl ../Documents/text.to.binary.pl -t -f binary.test.out.txt
+
+vash@vash-MX6214:~/Pictures$ perl ../Documents/bin.counter.pl
+The number is: 38209.0667724609
+ And the number of loops it took: 14vash@vash-MX6214:~/Pictures$ perl ../Documents/bin.counter.pl
+The number is: 38209.0667724609
+ And the number of loops it took: 14
+vash@vash-MX6214:~/Pictures$ perl ../Documents/bin.counter.pl
+The number is: 32767.9999923706
+ And the number of loops it took: 17
+vash@vash-MX6214:~/Pictures$ perl ../Documents/bin.counter.pl
+The number is: 127.999999970198
+ And the number of loops it took: 25
+vash@vash-MX6214:~/Pictures$ perl ../Documents/bin.counter.pl
+The number is: 128
+ And the number of loops it took: 25
+ And the number of Odd numbers: 1
+vash@vash-MX6214:~/Pictures$ perl ../Documents/bin.counter.pl
+The number is: 128
+ And the number of loops it took: 25
+ And the number of Odd numbers: 1
+vash@vash-MX6214:~/Pictures$ perl ../Documents/bin.counter.pl
+The number is: 152
+ And the number of loops it took: 15
+ And the number of Odd numbers: 5
+vash@vash-MX6214:~/Pictures$ perl ../Documents/bin.counter.pl
+The number is: 128
+ And the number of loops it took: 25
+ And the number of Odd numbers: 1
+vash@vash-MX6214:~/Pictures$ perl ../Documents/bin.counter.pl
+
+4294967295
+
+2147483648
+
+1073741824
+
+536870912
+
+268435456
+
+134217728
+
+67108864
+
+33554432
+
+16777216
+
+8388608
+
+4194304
+
+2097152
+
+1048576
+
+524288
+
+262144
+
+131072
+
+65536
+
+32768
+
+16384
+
+8192
+
+4096
+
+2048
+
+1024
+
+512
+
+256
+The number is: 128
+ And the number of loops it took: 25
+ And the number of Odd numbers: 1
+vash@vash-MX6214:~/Pictures$ perl ../Documents/bin.counter.pl
+
+4967295
+
+2483648
+
+1241824
+
+620912
+
+310456
+
+155228
+
+77614
+
+38807
+
+19404
+
+9702
+
+4851
+
+2426
+
+1213
+
+607
+
+304
+The number is: 152
+ And the number of loops it took: 15
+ And the number of Odd numbers: 5
+vash@vash-MX6214:~/Pictures$
