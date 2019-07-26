@@ -1,0 +1,56 @@
+SOURCE: fdsafd
+ACCOUNT: safds
+CALL: afdsaf
+EMAIL: dsafdsa
+NAME: fdsaf
+ISSUE: dsafasdf
+--
+NOTES: 
+
+--
+SOURCE: fdsafd
+ACCOUNT: safds
+CALL: afdsaf
+EMAIL: dsafdsa
+NAME: fdsaf
+ISSUE: dsafasdf
+--
+NOTES: 
+
+--
+SOURCE: dsafdsafdsf
+ACCOUNT: dsafds
+CALL: afdsafdsaf
+EMAIL: dsaf
+NAME: afdsaf
+ISSUE: dsafdsfasdfdsaf
+--
+NOTES: 
+my $button4 = $mw->Button(-text => 'Save', -command => sub{ 
+$txt_var2 = $ent_area_1->get() . "\n"; &print_to_file ($widgit_1_lable, $txt_var2);
+$txt_var2 = $ent_area_2->get() . "\n"; &print_to_file ($widgit_2_lable, $txt_var2);
+$txt_var2 = $ent_area_3->get() . "\n"; &print_to_file ($widgit_3_lable, $txt_var2);
+$txt_var2 = $ent_area_4->get() . "\n"; &print_to_file ($widgit_4_lable, $txt_var2);
+$txt_var2 = $ent_area_5->get() . "\n"; &print_to_file ($widgit_5_lable, $txt_var2);
+$txt_var2 = $ent_area_6->get() . "\n"; &print_to_file ($widgit_6_lable, $txt_var2);
+@text_var3 = $text_area->get('1.0','end'); &print_to_file ("--\n",$widgit_7_lable); &print_to_file_var (@text_var3); #foreach (@text_var3) { print $_; }
+&print_to_file ("--\n")})-> pack(-anchor => 'nw', -before => $text_area_lable);
+--
+SOURCE: dsafdsafdsf
+ACCOUNT: dsafds
+CALL: afdsafdsaf
+EMAIL: dsaf
+NAME: afdsaf
+ISSUE: dsafdsfasdfdsaf
+--
+NOTES: 
+my $button4 = $mw->Button(-text => 'Save', -command => sub{ 
+$txt_var2 = $ent_area_1->get() . "\n"; &print_to_file ($widgit_1_lable, $txt_var2);
+$txt_var2 = $ent_area_2->get() . "\n"; &print_to_file ($widgit_2_lable, $txt_var2);
+$txt_var2 = $ent_area_3->get() . "\n"; &print_to_file ($widgit_3_lable, $txt_var2);
+$txt_var2 = $ent_area_4->get() . "\n"; &print_to_file ($widgit_4_lable, $txt_var2);
+$txt_var2 = $ent_area_5->get() . "\n"; &print_to_file ($widgit_5_lable, $txt_var2);
+$txt_var2 = $ent_area_6->get() . "\n"; &print_to_file ($widgit_6_lable, $txt_var2);
+@text_var3 = $text_area->get('1.0','end'); &print_to_file ("--\n",$widgit_7_lable); &print_to_file_var (@text_var3); #foreach (@text_var3) { print $_; }
+&print_to_file ("--\n")})-> pack(-anchor => 'nw', -before => $text_area_lable);
+--

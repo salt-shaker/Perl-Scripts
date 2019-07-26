@@ -1,0 +1,22 @@
+1) Connection to a central MySQL DB
+
+2)Hot Keys for:
+save (crtl + s)
+open (ctrl + o)
+copy (ctrl + c)
+paste (ctrl + v)
+select all (ctrl + a)
+quick refresh (ctrl + alt + r)
+quick log file slelect (ctrl + alt + l)
+quick log file create (ctrl + alt c)
+quick entry add (ctrl + alt + a)
+
+3) Menu Bar
+
+4) Possibly use grid to make internface more diliberate
+
+5) Make it so dialog boxes appear over main window
+
+6) Spell Checker
+
+7) Activity log in new windows or new text area, for currently open tickets to be monitored then removed/marked done once resolved
